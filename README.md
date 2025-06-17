@@ -21,3 +21,5 @@ Desenvolvedores:
   - Gabriel Amaral
 
 ![Image](https://github.com/user-attachments/assets/c0b67a98-3459-4ad9-9dd2-2e4ffb393fba)
+
+![Image](https://github.com/user-attachments/assets/4a0ce0b2-36af-4ace-86b6-0057527cde9e)
