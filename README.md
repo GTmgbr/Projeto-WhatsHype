@@ -19,3 +19,5 @@ Desenvolvedores:
   - João Lucas
   - Gustavo Totti
   - Gabriel Amaral
+
+![Image](https://github.com/user-attachments/assets/c0b67a98-3459-4ad9-9dd2-2e4ffb393fba)
